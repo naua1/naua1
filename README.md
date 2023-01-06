@@ -1,5 +1,5 @@
 ## Olá me chamo Nauã
-- Estou estudando no instituto Proa.
+- formado instituto Proa.
 - Estudando HTML/CSS, React, Javascript, Java,
 - Tenho 19 anos.
 - terminei o ensino médio.
