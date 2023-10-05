@@ -3,7 +3,7 @@
 - Estudando HTML/CSS, React, Javascript, Java,
 - Tenho 20 anos.
 - terminei o ensino médio.
-- estou cursando faculdade de desenvolvimento de software multiplatarfoma na fatec
+- estou cursando faculdade de desenvolvimento de software multiplataforma na fatec
 ##
 
 <div style="display: inline_block"><br>
