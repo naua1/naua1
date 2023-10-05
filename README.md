@@ -1,8 +1,9 @@
 ## Olá me chamo Nauã
 - formado no instituto Proa.
 - Estudando HTML/CSS, React, Javascript, Java,
-- Tenho 19 anos.
+- Tenho 20 anos.
 - terminei o ensino médio.
+- estou cursando faculdade de desenvolvimento de software multiplatarfoma na fatec
 ##
 
 <div style="display: inline_block"><br>
